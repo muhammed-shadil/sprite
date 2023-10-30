@@ -1,0 +1,42 @@
+*{
+    font-family:  var(--font-family-alternative);
+}
+.navbar{
+    background-color: #009B4E;
+}
+.nav-item{
+    font-size: 14px;
+    letter-spacing: -0.5px;
+}
+.a1{
+    background-color: #AD1D40;
+    width: 100%;
+    
+}
+.b1{
+    height: 500px;
+}
+.b2{
+    width: 80%;
+    height: 600px;
+}
+.b3 img{
+width: 100%;
+height: auto;
+
+}
+.b4 {
+    font-weight: 900;
+    font-size: 57px;
+    color: #009B4E;
+    margin-top: 20%;
+    margin-left: 5%;
+}
+.b5{
+    font-weight:900;
+    font-size: 65px;
+}
+.c{
+    font-size: 68px;
+    font-weight: 900;
+}
